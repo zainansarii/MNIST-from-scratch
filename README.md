@@ -28,6 +28,6 @@ This method trains the neural network on a given dataset of input images x_train
 
 ## Testing
 
-evaluate(self, x_test, y_test): This method evaluates the performance of the neural network on a given test dataset of input images x_test and labels y_test. It computes the accuracy of the network by comparing the predicted labels with the true labels, and prints the test accuracy in percentage.
+This method evaluates the performance of the neural network on a given test dataset of input images x_test and labels y_test. It computes the accuracy of the network by comparing the predicted labels with the true labels, and prints the test accuracy in percentage. On a sample of 10000 test images, the model correctly classified 89.52%
 
 ![image info](./assets/testing.jpeg)
