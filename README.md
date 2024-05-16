@@ -1,6 +1,6 @@
 # MNIST from scratch
 
-Lately I've been relying on libraries to do the heavy lifting for me when it comes to machine learning. So, I decided to take matters into my own hands and build a neural network from scratch to classify the MNIST dataset. After a good amount of debugging code and staring at matrices, I'm very pleased with the performance of my model! Here's a summary of the code:
+Lately I've been relying on libraries to do the heavy lifting for me when it comes to machine learning. So, I decided to build a neural network from scratch to classify the MNIST dataset. Here's a summary of the code:
 
 ## Initialisation
 
